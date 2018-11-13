@@ -2,7 +2,7 @@ import socket
 
 # read test image to send over network
 with open("test_image.png", "rb") as image:
-    f = image.read()
+    f = image.read()	# read f into a byte-like object
     #b = bytearray(f)
 
 HOST = "127.0.0.1"
