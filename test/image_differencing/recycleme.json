@@ -1,0 +1,514 @@
+{
+  "imageURLs" : {
+    "-L_nzOPaHZdFG_dYL0_5" : {
+      "category" : "Recycle",
+      "tag" : "Plastic Bottles or Cups (Empty)",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Plastic%20Bottles%20or%20Cups%20(Empty)_40.54524169769138.jpg?alt=media&token=2d08c803-5620-4235-864e-f801af029519"
+    },
+    "-L_ytRRj3U-wq1i0fD_H" : {
+      "category" : "Recycle",
+      "tag" : "Plastic Bottles or Cups (Empty)",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Plastic%20Bottles%20or%20Cups%20(Empty)_59.08291614614427.jpg?alt=media&token=32297510-6ed2-4f99-b75d-55c256e19371"
+    },
+    "-L_z1E7jYFa3WwbdQTv4" : {
+      "category" : "Recycle",
+      "tag" : "Printed Paper",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Printed%20Paper_64.07632944174111.jpg?alt=media&token=0eb25d69-d8da-4f4f-877e-c53e3633b91b"
+    },
+    "-L_zX1qT6b9B8IYAa1Y4" : {
+      "category" : "Recycle",
+      "tag" : "Wrappers (Candy, Chocolate, Chips)",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Wrappers%20(Candy%2C%20Chocolate%2C%20Chips)_1.1275236960500479.jpg?alt=media&token=e84ac602-74a1-49a4-b812-a7d4d5c093f5"
+    },
+    "-La1oNKpyBJs8T-C1xKZ" : {
+      "category" : "Compost",
+      "tag" : "Plastic Bottles or Cups (Empty)",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FCompost_Plastic%20Bottles%20or%20Cups%20(Empty)_81.31634576711804.jpg?alt=media&token=ead0a070-0c73-4005-8f4b-bec107ffaa36"
+    },
+    "-La1oZu_HcRZuhPDByGy" : {
+      "category" : "Recycle",
+      "tag" : "Plastic Bottles or Cups (Empty)",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Plastic%20Bottles%20or%20Cups%20(Empty)_69.34813589323312.jpg?alt=media&token=be36aee9-a56b-4145-9ce2-ed08648d84be"
+    },
+    "-La1op7DqKVfMhvV92cU" : {
+      "category" : "Landfill",
+      "tag" : "Wrappers (Candy, Chocolate, Chips)",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FLandfill_Wrappers%20(Candy%2C%20Chocolate%2C%20Chips)_17.408532788977027.jpg?alt=media&token=4ee9b740-74d6-4308-822a-e0a94b95d6f0"
+    },
+    "-La1pGIdDhg6Bkrwrcv1" : {
+      "category" : "Recycle",
+      "tag" : "Nappies",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Nappies_16.255833581089973.jpg?alt=media&token=163640d0-f043-4d39-88b9-69605fcded53"
+    },
+    "-La1pJ1wp_RYU-uBWggp" : {
+      "category" : "Compost",
+      "tag" : "OTHER",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FCompost_OTHER_85.31597475521266.jpg?alt=media&token=a6a71b78-e474-4cee-b4b8-f87b14953a0d"
+    },
+    "-La1pQBtB7R4ytszV9-Y" : {
+      "category" : "Recycle",
+      "tag" : "Metal Cans or Utensils",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Metal%20Cans%20or%20Utensils_42.89075250271708.jpg?alt=media&token=6daeda6a-2ae9-4b80-aeaf-f3872f6c1f45"
+    },
+    "-La1pbZR12-TmjgS29Gy" : {
+      "category" : "Landfill",
+      "tag" : "Plastic Bags",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FLandfill_Plastic%20Bags_48.88894478790462.jpg?alt=media&token=3e3dbd89-22d2-45ed-a515-3635abd82927"
+    },
+    "-La1pjlRGNOlPxQkFqVj" : {
+      "category" : "Recycle",
+      "tag" : "Plastic Bottles or Cups (Empty)",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Plastic%20Bottles%20or%20Cups%20(Empty)_35.528358980081975.jpg?alt=media&token=86a90357-7f3b-4429-ad06-155f01c8450c"
+    },
+    "-La1rBrYdlFXU_5Ajme-" : {
+      "category" : "Recycle",
+      "tag" : "Milk Cartons (Empty)",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Milk%20Cartons%20(Empty)_64.99067766126245.jpg?alt=media&token=72a6f56b-6e85-4dc7-abb6-2b268a8e076c"
+    },
+    "-La1rHAH-pw_oVIeZ8s_" : {
+      "category" : "Recycle",
+      "tag" : "Plastic Bottles or Cups (Empty)",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Plastic%20Bottles%20or%20Cups%20(Empty)_32.03517470974475.jpg?alt=media&token=ab22804e-2fc5-4bf1-96b2-bf7fd9de1f52"
+    },
+    "-La1rLtq94Cbn1jqubnM" : {
+      "category" : "Recycle",
+      "tag" : "Metal Cans or Utensils",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Metal%20Cans%20or%20Utensils_20.879182498902082.jpg?alt=media&token=514bbc1c-c402-43c8-9598-b34a478156f2"
+    },
+    "-La1rOrUbkQaD0caed0Q" : {
+      "category" : "Recycle",
+      "tag" : "Plastic Bottles or Cups (Empty)",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Plastic%20Bottles%20or%20Cups%20(Empty)_99.65288580860943.jpg?alt=media&token=69cb58a6-c24d-4516-ba16-7a6da71c3e70"
+    },
+    "-La1rU-tGSU7OgnSRUV9" : {
+      "category" : "Recycle",
+      "tag" : "Metal Cans or Utensils",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Metal%20Cans%20or%20Utensils_75.59093458112329.jpg?alt=media&token=8957c7fc-8b07-4b0f-a02d-4ee2f06a2552"
+    },
+    "-La1rUw2MRVoDrfUPf9H" : {
+      "category" : "Recycle",
+      "tag" : "Milk Cartons (Empty)",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Milk%20Cartons%20(Empty)_97.89149707648903.jpg?alt=media&token=a617cc27-e75e-4335-bcb5-4f84eab15907"
+    },
+    "-La1rZ8vqVb8_89BWKZQ" : {
+      "category" : "Recycle",
+      "tag" : "Metal Cans or Utensils",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Metal%20Cans%20or%20Utensils_58.446735283359885.jpg?alt=media&token=f2f80a4c-f63f-4270-9533-1d7c6399fa45"
+    },
+    "-La1rbytUHNNGWrj_vK7" : {
+      "category" : "Recycle",
+      "tag" : "Glass Containers",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Glass%20Containers_70.35326450131834.jpg?alt=media&token=3749e489-b72c-434f-98fe-23af2bbdab26"
+    },
+    "-La1rhbaPw9ywQ7ItpCo" : {
+      "category" : "Recycle",
+      "tag" : "Plastic Bottles or Cups (Empty)",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Plastic%20Bottles%20or%20Cups%20(Empty)_85.22237152792513.jpg?alt=media&token=99f9f6d4-4d62-4c65-8078-5951ac0f278a"
+    },
+    "-La1rjtXh-1YmPDbk8Iq" : {
+      "category" : "Recycle",
+      "tag" : "Glass Containers",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Glass%20Containers_21.984574617817998.jpg?alt=media&token=37ba98d9-f873-4ca6-8611-aa1fed2365ee"
+    },
+    "-La1rpBi655EYPaI8u9w" : {
+      "category" : "Recycle",
+      "tag" : "Receipts",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Receipts_95.69591123145074.jpg?alt=media&token=5afaf020-0c71-4499-96dd-6f9825f5d024"
+    },
+    "-La1rpn8eJah17__McrR" : {
+      "category" : "Recycle",
+      "tag" : "Receipts",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Receipts_85.38325529079884.jpg?alt=media&token=a4462e28-23d5-42bf-8a0c-133e13e31f21"
+    },
+    "-La1ruuzykcJr-N57S_m" : {
+      "category" : "Compost",
+      "tag" : "Receipts",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FCompost_Receipts_60.360932000912726.jpg?alt=media&token=09ebb33b-7a25-49d9-9e8b-dd698c3b96eb"
+    },
+    "-La1sQyn1uSvabEovPQR" : {
+      "category" : "Recycle",
+      "tag" : "Paper Plates",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Paper%20Plates_49.723472469486296.jpg?alt=media&token=7f30181a-18a2-4253-a12b-967b3cd510d2"
+    },
+    "-La1sSGdswdXCrM-Neqf" : {
+      "category" : "Compost",
+      "tag" : "Paper Plates",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FCompost_Paper%20Plates_55.14886372257024.jpg?alt=media&token=a14874da-8c24-4018-8d3c-5258306557d4"
+    },
+    "-La1sVHfFK0bwEviZScj" : {
+      "category" : "Compost",
+      "tag" : "Paper Plates",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FCompost_Paper%20Plates_63.78312942106277.jpg?alt=media&token=a14c8df2-5929-4f14-bb98-cc874c77bd54"
+    },
+    "-La1sfnDWr0p3_TqrZRA" : {
+      "category" : "Recycle",
+      "tag" : "Fountain Drink Cups",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Fountain%20Drink%20Cups_22.962735244072974.jpg?alt=media&token=c9e2e6da-bc8c-44b3-a30c-f3dda8158d48"
+    },
+    "-La1snBn7qkGF_jzrXJw" : {
+      "category" : "Compost",
+      "tag" : "Paper Plates",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FCompost_Paper%20Plates_84.75246843881905.jpg?alt=media&token=84559320-103e-49b7-8f86-a2ce5fd94df8"
+    },
+    "-La1sqjBu3wIC3-goGE9" : {
+      "category" : "Compost",
+      "tag" : "Paper Plates",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FCompost_Paper%20Plates_8.042752859182656.jpg?alt=media&token=2854ed28-074b-4a28-86c6-a18c0e169592"
+    },
+    "-La1ss1DW_GhOUbvFX6F" : {
+      "category" : "Compost",
+      "tag" : "Paper Plates",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FCompost_Paper%20Plates_57.60165578685701.jpg?alt=media&token=9abadf53-6c6a-4031-b88e-4e97bd250289"
+    },
+    "-La1t3F8xuSGnPA6tFJq" : {
+      "category" : "Recycle",
+      "tag" : "Fountain Drink Cups",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Fountain%20Drink%20Cups_21.70954281464219.jpg?alt=media&token=dd638372-7996-43fd-a476-1b03392f8072"
+    },
+    "-La1t95cSx_QRGVkOaD-" : {
+      "category" : "Compost",
+      "tag" : "Fountain Drink Cups",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FCompost_Fountain%20Drink%20Cups_90.37089955527335.jpg?alt=media&token=b17c02bd-09dc-456e-a0cd-8fc2a4117ae6"
+    },
+    "-La1tD71ZLJLIuJIjJks" : {
+      "category" : "Recycle",
+      "tag" : "Coffee Cups",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Coffee%20Cups_78.47099252976477.jpg?alt=media&token=693989f0-1eaf-40ed-b023-3e47e9969aec"
+    },
+    "-La1tF7zrQ8uDIpvo5wm" : {
+      "category" : "Recycle",
+      "tag" : "Coffee Cups",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Coffee%20Cups_53.483091038651764.jpg?alt=media&token=a1a68ee1-6881-4a16-8724-2424662682f1"
+    },
+    "-La1tQKd5_dCr63O2y0T" : {
+      "category" : "Recycle",
+      "tag" : "Paper Plates",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Paper%20Plates_33.99751163087785.jpg?alt=media&token=353a52d0-efe6-42ef-9a2c-393b2d286d5f"
+    },
+    "-La1tS-Z3zMExKLjB9v_" : {
+      "category" : "Recycle",
+      "tag" : "Paper Plates",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Paper%20Plates_92.08150366321206.jpg?alt=media&token=66d6f240-7e8e-4f05-9e81-e75bf3e8b7f4"
+    },
+    "-La1tVwTkRe5I0bt-7Jl" : {
+      "category" : "Recycle",
+      "tag" : "Paper Plates",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Paper%20Plates_91.92085359245539.jpg?alt=media&token=fa407f2e-8052-4a1d-b5c9-132195f46638"
+    },
+    "-La1tZCFaA4QfRx_FoHk" : {
+      "category" : "Compost",
+      "tag" : "Paper Plates",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FCompost_Paper%20Plates_40.58394313324243.jpg?alt=media&token=d997d3bb-4f14-4b92-812b-432f4ac15fbc"
+    },
+    "-La1tg5xk8L2cpg35dsQ" : {
+      "category" : "Recycle",
+      "tag" : "Nappies",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Nappies_67.82520289998502.jpg?alt=media&token=a561cb1c-87de-41e8-b0e0-a7a61c163104"
+    },
+    "-La1tj2rI8_w0FdhRaG7" : {
+      "category" : "Recycle",
+      "tag" : "Nappies",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Nappies_79.5953189022839.jpg?alt=media&token=0b2dfd97-7b61-4023-8ca1-a5a7620a399f"
+    },
+    "-La1tlRaB8O8I5abl7Yw" : {
+      "category" : "Recycle",
+      "tag" : "Nappies",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Nappies_88.91167812980711.jpg?alt=media&token=2681747a-2eb6-4915-b2f4-eb5635952d94"
+    },
+    "-La1tvsJ16QDQIt3Mlk1" : {
+      "category" : "Compost",
+      "tag" : "Paper Plates",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FCompost_Paper%20Plates_91.95577455684543.jpg?alt=media&token=ac9e47a3-54b2-479f-b0d9-2231cfe02cd8"
+    },
+    "-La1tw6pPfaUCnCW48Sl" : {
+      "category" : "Compost",
+      "tag" : "Paper Plates",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FCompost_Paper%20Plates_60.34298804588616.jpg?alt=media&token=a6965246-2a8c-449c-b265-9d0f61e1eaf8"
+    },
+    "-La1u163DlW-6Ask6bVf" : {
+      "category" : "Recycle",
+      "tag" : "Paper Plates",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Paper%20Plates_74.62914192583412.jpg?alt=media&token=8e9d78d1-7211-4f02-849a-75fd8870eec2"
+    },
+    "-La1u5XEJ0FDNL1Yoqtw" : {
+      "category" : "Recycle",
+      "tag" : "Paper Plates",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Paper%20Plates_49.11262250971049.jpg?alt=media&token=c6f24321-c135-476f-8973-f9c162025c27"
+    },
+    "-La1u6vpprNPaHv1Mmvd" : {
+      "category" : "Recycle",
+      "tag" : "Paper Plates",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Paper%20Plates_4.567249189130962.jpg?alt=media&token=92bf2dc2-95ab-46d8-af6f-39d06b207ba8"
+    },
+    "-La1uCV1uRvRzDvWp9zL" : {
+      "category" : "Compost",
+      "tag" : "Fountain Drink Cups",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FCompost_Fountain%20Drink%20Cups_19.731446099467576.jpg?alt=media&token=53325994-15b4-4a6b-a1ba-aec32e070950"
+    },
+    "-La1uGNksh7AlyM9OKB8" : {
+      "category" : "Recycle",
+      "tag" : "Receipts",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Receipts_61.45435145590454.jpg?alt=media&token=5e35a932-3758-4cd7-8780-e58b58f5ef39"
+    },
+    "-La1uLLkEdJDqkKag5Rg" : {
+      "category" : "Recycle",
+      "tag" : "Plastic Bottles or Cups (Empty)",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Plastic%20Bottles%20or%20Cups%20(Empty)_94.72448593005538.jpg?alt=media&token=187f01e9-43f1-424f-b3a7-96a54b9db3c0"
+    },
+    "-La1u_HA8k1mcs4CRphe" : {
+      "category" : "Recycle",
+      "tag" : "Metal Cans or Utensils",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Metal%20Cans%20or%20Utensils_92.14731419924647.jpg?alt=media&token=fbd74ab4-0ef8-4fe0-9085-6304575a8a71"
+    },
+    "-La1u_RASwk9zu3ir1Ch" : {
+      "category" : "Recycle",
+      "tag" : "Plastic Bottles or Cups (Empty)",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Plastic%20Bottles%20or%20Cups%20(Empty)_51.77416582591832.jpg?alt=media&token=91bcab93-e04c-47a6-b6b7-5ff415857fd1"
+    },
+    "-La1uijv7z7mrpImQZg0" : {
+      "category" : "Recycle",
+      "tag" : "Metal Cans or Utensils",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Metal%20Cans%20or%20Utensils_98.39389107655734.jpg?alt=media&token=ed4a1c32-3370-4ab1-afb0-81cc91560a93"
+    },
+    "-La1uk_KiY-TSxWm5vMF" : {
+      "category" : "Recycle",
+      "tag" : "Wrappers (Candy, Chocolate, Chips)",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Wrappers%20(Candy%2C%20Chocolate%2C%20Chips)_27.98457893077284.jpg?alt=media&token=43192bce-8f79-40b4-9832-81be076ccde1"
+    },
+    "-La1uwKtEUi2I7CqqZEN" : {
+      "category" : "Recycle",
+      "tag" : "Plastic Bottles or Cups (Empty)",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Plastic%20Bottles%20or%20Cups%20(Empty)_22.582726483233273.jpg?alt=media&token=8e8a2373-e535-410b-94d6-b3419f25d45f"
+    },
+    "-La1uwm11LsmtlhWHxbZ" : {
+      "category" : "Recycle",
+      "tag" : "Plastic Bottles or Cups (Empty)",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Plastic%20Bottles%20or%20Cups%20(Empty)_26.905833813361824.jpg?alt=media&token=0a6b24e3-1b3e-455c-a58d-c1cb5ef4ea15"
+    },
+    "-La2FInPS2wqwMrN80k3" : {
+      "category" : "Recycle",
+      "tag" : "Milk Cartons (Empty)",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Milk%20Cartons%20(Empty)_25.72690232191235.jpg?alt=media&token=661dd80b-0b02-49dd-9943-d359e740a6f7"
+    },
+    "-La2FWAzxKu4urTYx6w3" : {
+      "category" : "Landfill",
+      "tag" : "Plastic Bags",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FLandfill_Plastic%20Bags_9.340935479849577.jpg?alt=media&token=2e86fcbb-a4f6-4029-b803-ea3c60fafd5f"
+    },
+    "-La2FoAvj64oZjhH6uTB" : {
+      "category" : "Recycle",
+      "tag" : "Printed Paper",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Printed%20Paper_18.892939412035048.jpg?alt=media&token=824f7b90-d7f9-45e3-8a45-82d042df7824"
+    },
+    "-La2FrOqmsWmbtfcHlgU" : {
+      "category" : "Recycle",
+      "tag" : "Printed Paper",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Printed%20Paper_62.745010550133884.jpg?alt=media&token=37992ab6-d269-48c0-8285-de9b8966491f"
+    },
+    "-La2FvbL1fySZbolxVNr" : {
+      "category" : "Recycle",
+      "tag" : "Printed Paper",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Printed%20Paper_63.95653844811022.jpg?alt=media&token=38ab5951-5ec0-4108-85b7-70b65d7559ce"
+    },
+    "-La2G1gSnm18h78vflMg" : {
+      "category" : "Recycle",
+      "tag" : "Printed Paper",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Printed%20Paper_36.61867515183985.jpg?alt=media&token=b3f9386b-1d29-4786-8de1-e07405711f59"
+    },
+    "-La2G6-MocbzgAIFQZmm" : {
+      "category" : "Recycle",
+      "tag" : "Printed Paper",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Printed%20Paper_80.64242210239172.jpg?alt=media&token=82d7b28c-7117-4b7d-be51-167ef170bf1b"
+    },
+    "-La2GFdBmEzIY_4j3WTv" : {
+      "category" : "Recycle",
+      "tag" : "Printed Paper",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Printed%20Paper_8.596264221705496.jpg?alt=media&token=a314804e-3b3a-405e-97e4-c7ff303c90a4"
+    },
+    "-La2GJT6DDSoeVpINPiD" : {
+      "category" : "Recycle",
+      "tag" : "Printed Paper",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Printed%20Paper_30.908668879419565.jpg?alt=media&token=78f930a1-488d-403f-915c-ffb3a1c4707b"
+    },
+    "-La2GRiJrDNT9jtUyKKs" : {
+      "category" : "Recycle",
+      "tag" : "Printed Paper",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Printed%20Paper_29.843502957373857.jpg?alt=media&token=b9020d05-f98f-47e0-9622-4acc30ba7709"
+    },
+    "-La2GUBqW4P5TrEW6Eqy" : {
+      "category" : "Recycle",
+      "tag" : "Printed Paper",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Printed%20Paper_80.39662351366132.jpg?alt=media&token=ee59d7d2-4471-4835-92e9-a94c22e1c90a"
+    },
+    "-La2jF11SZzcozCsjrfY" : {
+      "category" : "Recycle",
+      "tag" : "Printed Paper",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Printed%20Paper_2.816521329805255.jpg?alt=media&token=4df8d664-b85c-4b9b-81b7-be7f43115614"
+    },
+    "-La2kAyKluYHUryaGAeC" : {
+      "category" : "Recycle",
+      "tag" : "Wrappers (Candy, Chocolate, Chips)",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Wrappers%20(Candy%2C%20Chocolate%2C%20Chips)_75.02396169584244.jpg?alt=media&token=54d9be5c-7c01-48b1-a28c-28ff2cfc4a1a"
+    },
+    "-La7BIpn09SKdn4yfOhG" : {
+      "category" : "Recycle",
+      "tag" : "Soiled Cardboard and Pizza Boxes",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Soiled%20Cardboard%20and%20Pizza%20Boxes_41.44252373371273.jpg?alt=media&token=9243c493-6728-4ce3-85bf-8cfb6262418b"
+    },
+    "-La7Bn3ATRUhyD4PsM5w" : {
+      "category" : "Recycle",
+      "tag" : "Nappies",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Nappies_54.72993208095431.jpg?alt=media&token=2699cb83-d699-4103-b900-d4280dc59518"
+    },
+    "-La7C-0ruagAIt0xH9tR" : {
+      "category" : "Landfill",
+      "tag" : "Plastic Bags",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FLandfill_Plastic%20Bags_59.381478698924184.jpg?alt=media&token=36d2433d-3093-4021-b9e1-8e874a04be45"
+    },
+    "-La7C6sEMF_5Vm0n4dlm" : {
+      "category" : "Recycle",
+      "tag" : "Receipts",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Receipts_7.018668367527425.jpg?alt=media&token=9ff38d92-1fc0-4eaa-89ca-30878d0b41a7"
+    },
+    "-La7CGnSXw-M6G0O3JKb" : {
+      "category" : "Recycle",
+      "tag" : "Nappies",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Nappies_60.696234833449125.jpg?alt=media&token=b1884407-b888-4c02-a2b6-4080ad96f68e"
+    },
+    "-La7CTyV1LQ8eh-fxVmN" : {
+      "category" : "Recycle",
+      "tag" : "Nappies",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Nappies_88.00795611459762.jpg?alt=media&token=bbfd09aa-076c-483d-bf92-367f05cf5e72"
+    },
+    "-La7JTXr7zTRUgrpruGR" : {
+      "category" : "Recycle",
+      "tag" : "Plastic Bottles or Cups (Empty)",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Plastic%20Bottles%20or%20Cups%20(Empty)_23.619019985198975.jpg?alt=media&token=2b8ebb9d-2471-4d7d-b914-ce45b7e22ea5"
+    },
+    "-La8XY_fAf6YidOnTGSu" : {
+      "category" : "Recycle",
+      "tag" : "Plastic Bottles or Cups (Empty)",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Plastic%20Bottles%20or%20Cups%20(Empty)_40.13919036369771.jpg?alt=media&token=7ac3c5ad-105d-438c-b7d7-ed0ee2e72998"
+    },
+    "-La8XwwNlXdPRjTCKV5P" : {
+      "category" : "Landfill",
+      "tag" : "Wrappers (Candy, Chocolate, Chips)",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FLandfill_Wrappers%20(Candy%2C%20Chocolate%2C%20Chips)_18.48829546943307.jpg?alt=media&token=c380fba7-22b5-4ac7-8f48-d6c82bdd7942"
+    },
+    "-LaC57oMMsQf-1AFSkIF" : {
+      "category" : "Recycle",
+      "tag" : "Plastic Bottles or Cups (Empty)",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Plastic%20Bottles%20or%20Cups%20(Empty)_21.438967040739954.jpg?alt=media&token=dd5b1d3a-1d07-42fd-8b5a-7e53b44b6ca7"
+    },
+    "-LaCBmBOtTO46qGPF53r" : {
+      "category" : "Compost",
+      "tag" : "Paper Plates",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FCompost_Paper%20Plates_8.693707687780261.jpg?alt=media&token=d937787a-7fe2-4a9d-9a09-c6336a87e8b2"
+    },
+    "-LaCF_AdCgf34S3qK6n4" : {
+      "category" : "Recycle",
+      "tag" : "Paper Plates",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Paper%20Plates_92.32481778599322.jpg?alt=media&token=306a6237-247a-4edb-b99f-a49a4ad34079"
+    },
+    "-LaCFisfkAvHjRs-E_Xt" : {
+      "category" : "Recycle",
+      "tag" : "Nappies",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Nappies_2.527308533899486.jpg?alt=media&token=8fac1eab-5247-4abd-bc1f-32f082bdf445"
+    },
+    "-LaCG1TK339gCU4Bid47" : {
+      "category" : "Recycle",
+      "tag" : "Paper Plates",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Paper%20Plates_5.738022620789707.jpg?alt=media&token=77d18c5b-7bcb-4d69-8b12-f3c1670b8816"
+    },
+    "-LaLaufm6FjKhZE9TVYt" : {
+      "category" : "Landfill",
+      "tag" : "Wrappers (Candy, Chocolate, Chips)",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FLandfill_Wrappers%20(Candy%2C%20Chocolate%2C%20Chips)_19.030186510644853.jpg?alt=media&token=3b537eec-0cc5-4b6b-98bf-1190f418b2fb"
+    },
+    "-LaM_ubWjLkfRZOdeXEd" : {
+      "category" : "Landfill",
+      "tag" : "Plastic \"Clam-Shell\" Containers (Take-Out)",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FLandfill_Plastic%20%22Clam-Shell%22%20Containers%20(Take-Out)_47.40743264555931.jpg?alt=media&token=f7e145a5-caee-4bc9-aed3-f06c461b57b7"
+    },
+    "-LamKvHnwKEeCh7cvHBi" : {
+      "category" : "Recycle",
+      "tag" : "Metal Cans or Utensils",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Metal%20Cans%20or%20Utensils_6.133275688625872.jpg?alt=media&token=a53f1f8b-610d-419d-b190-f2d76102c4c8"
+    },
+    "-LamKz26cw77oanrf9fg" : {
+      "category" : "Recycle",
+      "tag" : "Metal Cans or Utensils",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Metal%20Cans%20or%20Utensils_64.19904790818691.jpg?alt=media&token=819cf419-ed02-45f1-a95b-3d3cae6fea5c"
+    },
+    "-LamL7LXoImBcb-6pYVp" : {
+      "category" : "Recycle",
+      "tag" : "Metal Cans or Utensils",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Metal%20Cans%20or%20Utensils_11.770794377662241.jpg?alt=media&token=208e72da-4c59-47d6-a002-546ea72660ce"
+    },
+    "-LamPWHMqNPwfSFG3P7O" : {
+      "category" : "Recycle",
+      "tag" : "Metal Cans or Utensils",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Metal%20Cans%20or%20Utensils_95.73443334084004.jpg?alt=media&token=aebdf824-d0aa-4059-b3e2-d832e24e0b5a"
+    },
+    "-LamPd8vcboAasA1SEg7" : {
+      "category" : "Recycle",
+      "tag" : "Metal Cans or Utensils",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Metal%20Cans%20or%20Utensils_47.54111198708415.jpg?alt=media&token=56a25b69-de9d-4763-904f-d5443f4e41b4"
+    },
+    "-LamPjRrpWWHN6JPqdXt" : {
+      "category" : "Recycle",
+      "tag" : "Nappies",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Nappies_43.84496838320047.jpg?alt=media&token=87339c82-fed0-4763-891e-ddca7eac56a8"
+    },
+    "-LamPodXh8PNgxSu1UTF" : {
+      "category" : "Recycle",
+      "tag" : "Nappies",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Nappies_51.66249342728406.jpg?alt=media&token=06e27843-cf81-4065-a75e-26b6daee0e19"
+    },
+    "-LaqU8KY6MWHxIESRDuW" : {
+      "category" : "Recycle",
+      "tag" : "Wrappers (Candy, Chocolate, Chips)",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Wrappers%20(Candy%2C%20Chocolate%2C%20Chips)_98.84072544518858.jpg?alt=media&token=b7bb0f9c-9f0c-437c-8bec-88d719392a3c"
+    },
+    "-LaqUIDichMHE4O8UotG" : {
+      "category" : "Recycle",
+      "tag" : "Plastic Bottles or Cups (Empty)",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Plastic%20Bottles%20or%20Cups%20(Empty)_23.327199439518154.jpg?alt=media&token=4d9a6ab6-d322-4887-94e0-764c680b9b42"
+    },
+    "-LarINj3D0x9vKC76-bL" : {
+      "category" : "Recycle",
+      "tag" : "Nappies",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Nappies_94.0289010759443.jpg?alt=media&token=a0c6512f-1cd1-4bd0-8867-b572c0db66eb"
+    },
+    "-Las-H9w1vYyNREo1gFd" : {
+      "category" : "Recycle",
+      "tag" : "Paper Plates",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Paper%20Plates_17.4502813257277.jpg?alt=media&token=1fb4e3a5-94d0-41db-b734-d2c0afde73e8"
+    },
+    "-Las-LA2jpeOg57D0HjF" : {
+      "category" : "Recycle",
+      "tag" : "Paper Plates",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Paper%20Plates_50.36022970452905.jpg?alt=media&token=11522718-070c-4356-aa03-d5c695e9b79a"
+    },
+    "-Las-Sh65RB769BD4QEh" : {
+      "category" : "Recycle",
+      "tag" : "Nappies",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Nappies_17.16366910841316.jpg?alt=media&token=8a2b0dba-6034-49d7-8a73-b6b44271926c"
+    },
+    "-LavevJqvvH-EIiXcjhu" : {
+      "category" : "Recycle",
+      "tag" : "Printed Paper",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Printed%20Paper_73.40297142509371.jpg?alt=media&token=b61cf577-7d9b-4055-9e04-ed686281a6a6"
+    },
+    "-Lb0WWh9cLRDVndPafh0" : {
+      "category" : "Recycle",
+      "tag" : "Nappies",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Nappies_15.106370020657778.jpg?alt=media&token=c9d5591e-2e03-4a53-828d-2829c1ba8034"
+    },
+    "-Lb5t_rH-TvfxOLvoBp1" : {
+      "category" : "Recycle",
+      "tag" : "Paper Plates",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/recycleme-f63a1.appspot.com/o/images%2FRecycle_Paper%20Plates_92.8527093725279.jpg?alt=media&token=8f025735-3cb0-4b49-8266-ae89b2307eb3"
+    }
+  }
+}
