@@ -1,0 +1,1 @@
+pistill -o cam
