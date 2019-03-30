@@ -1,8 +1,8 @@
 import socket
 
 s = socket.socket()
-host = "10.145.56.251"
-port = 12345
+host = socket.gethostname()
+port = 1234
 
 s.connect((host, port))
 print s.recv(1024)
