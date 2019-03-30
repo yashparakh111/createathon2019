@@ -4,19 +4,29 @@
 
 import time
 import RPi.GPIO as GPIO
+#from gpiozero import *
 
 # Declare the GPIO settings
-GPIO.setmode(GPIO.BOARD)
+GPIO.setmode(GPIO.BCM)
 
 # Declare pins for each output
-PWMA = 4
+# Setup the GPIO pins
+PWMA = 4        # GPIO pin layout
 PWMB = 22
 AIN1 = 18
 AIN2 = 17
 BIN1 = 3
 BIN2 = 23
 STBY = 27
-
+'''
+PWMA = 7        # Board pin layout
+PWMB = 15
+AIN1 = 12
+AIN2 = 11
+BIN1 = 5
+BIN2 = 16
+STBY = 13
+'''
 # Setup the GPIO pins
 GPIO.setup(PWMA, GPIO.OUT)
 GPIO.setup(PWMB, GPIO.OUT)
@@ -53,3 +63,4 @@ GPIO.output(PWMB, GPIO.LOW)
 GPIO.output(AIN2, GPIO.LOW)
 GPIO.output(BIN2, GPIO.LOW)
 
+GPIO.cleanup()
