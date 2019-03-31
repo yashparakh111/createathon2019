@@ -19,7 +19,7 @@ def classifyImage(stream):
         connection.write(stream.read())
 
         connection.write(struct.pack('<L', 0))
-        clasification = client_socket.recv(1000)
+        classification = client_socket.recv(1000)
     finally:
         connection.close()
         client_socket.close()
