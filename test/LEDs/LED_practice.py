@@ -4,6 +4,7 @@
 
 from neopixel import *
 import time
+from something import *
 
 # LED strip configuration:
 LED_COUNT = 120         # Number of LEDs to light up in string
@@ -24,3 +25,5 @@ strip.begin()           # Initialize the library
 colorWipe(strip, Color(127, 127, 127))
 time.sleep(5)
 colorWipe(strip, Color(0, 0, 0))
+
+HelloWorld()
