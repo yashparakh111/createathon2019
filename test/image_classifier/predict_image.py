@@ -7,6 +7,12 @@ from sklearn.metrics import classification_report, confusion_matrix
 from PIL import Image
 import os
 
+import io
+import socket
+import struct
+from PIL import Image
+
+# ------------------SETUP ML CODE----------------------
 TRAIN_BATCH_SIZE = 8
 TEST_BATCH_SIZE = 8
 MAX_TRAIN_IMAGE_COUNT = 1000
@@ -15,9 +21,9 @@ EPOCHS = 50
 IMG_HEIGHT = 576
 IMG_WIDTH = 432
 categories = ["Compost", "Landfill", "Recycle"]
+'''
+test_path = 'test_images/Landfill'
 
-model = load_model('best_model_84.h5')
-test_path = 'test_images'
 print("Model Successfully loaded!")
 test_datagen = ImageDataGenerator()
 test_generator = test_datagen.flow_from_directory(test_path, target_size = (IMG_HEIGHT, IMG_WIDTH),
@@ -45,4 +51,53 @@ print('Confusion Matrix')
 print(confusion_matrix(test_generator.classes, y_pred))
 print('Classification Report')
 print(classification_report(test_generator.classes, y_pred, target_names=categories))
+'''
 
+model = load_model('best_model_84.h5')
+print('Model Successfully loaded!')
+
+#img = load_img(os.path.join(test_path, os.listdir(test_path)[0]), target_size = (IMG_HEIGHT, IMG_WIDTH))
+#img = np.expand_dims(img, axis = 0)
+
+# ------------------SETUP SERVER CODE---------------------- 
+# Start a socket listening for connections on 0.0.0.0:8000 (0.0.0.0 means
+# all interfaces)
+server_socket = socket.socket()
+#server_socket.bind((socket.gethostname(), 8000))
+server_socket.bind(('0.0.0.0', 8000))
+server_socket.listen(0)
+
+# Accept a single connection and make a file-like object out of it
+try:
+    while True:
+        c, a = server_socket.accept()
+        connection = c.makefile('rb')
+        # Read the length of the image as a 32-bit unsigned int. If the
+        # length is zero, quit the loop
+        image_len = struct.unpack('<L', connection.read(struct.calcsize('<L')))[0]
+        if image_len:
+            # Construct a stream to hold the image data and read the image
+            # data from the connection
+            image_stream = io.BytesIO()
+            image_stream.write(connection.read(image_len))
+            # Rewind the stream, open it as an image with PIL and do some
+            # processing on it
+            image_stream.seek(0)
+            image = Image.open(image_stream)
+           
+            # predict image model
+            result = model.predict(image, verbose = 1)
+            print("Predicted Image: ")
+            predicted_category = result.argmax(axis = -1)
+            print(predicted_category[0])                # Send back predicted_category[0]
+
+            #image.show()
+            print('Image is %dx%d' % image.size)
+            image.verify()
+            print('Image is verified')
+
+            # send back classification
+            c.send(str(predicted_category[0]).encode('utf-8'))
+        connection.close()
+finally:
+    server_socket.close()
