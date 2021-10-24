@@ -21,7 +21,7 @@ COMP_LED_COUNT = 60         # Number of LEDs in the strip
 COMP_LED_PIN = board.D12           # GPIO pin used
 COMP_LED_BRIGHTNESS = 255   # Brightness of LED strip, 0 is off and 255 is the brightest
 #COMP_STRIP = Adafruit_NeoPixel(COMP_LED_COUNT, COMP_LED_PIN, LED_FREQ_HZ, LED_DMA, LED_INVERT, COMP_LED_BRIGHTNESS, LED_CHANNEL)        # Create object for LED strip in the recpeticle compartment
-COMP_STRIP = neopizel.NeoPixel(COMP_LED_PIN, COMP_LED_COUNT, brightness = 1, auto_write = False, pixel_order = ORDER)
+COMP_STRIP = neopixel.NeoPixel(COMP_LED_PIN, COMP_LED_COUNT, brightness = 1, auto_write = False, pixel_order = ORDER)
 #COMP_STRIP.begin()          # Initialize the library
 
 '''
@@ -36,15 +36,14 @@ BIN_STRIP.begin()           # Initialize the library
 ANIMATE_TIME = 10           # Amount of time that LED stip(s) are on and animating during classification
 '''
 
-
-
 # Helper function to set LEDs all to a specific color
 # Only to be used within this file
-def __colorWipe(strip, color_num):
+def colorWipe(strip, color_num):
     #for i in range(strip.numPixels()):
         #strip.setPixelColor(i, color)
         #strip.show()
     COMP_STRIP.fill((color_num, color_num, color_num))
+    COMP_STRIP.show()
 
 # Lights the main trash recepticle compartment to a constant white
 def lightCompartment():
@@ -69,8 +68,8 @@ def animateBin():
     colorWipe(BIN_STRIP, Color(0, 0, 0))                # Turn off LEDs
 '''
 # Kill switch for all LED strips
-def killLED():
-    colorWipe(COMP_STRIP, Color(0, 0, 0))
+#def killLED():
+    #colorWipe(COMP_STRIP, Color(0, 0, 0))
     #colorWipe(BIN_STRIP, Color(0, 0, 0))
 
 # FOR TESTING PURPOSES ONLY!

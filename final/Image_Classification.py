@@ -4,9 +4,9 @@ import struct
 import time
 
 client_socket = socket.socket()
-client_socket.connect(('10.145.56.251', 8000))
-
+client_socket.connect(('10.145.73.172', 8000))
 connection = client_socket.makefile('wb')
+print("Making Connection to Image Classification Server:", str(connection))
 
 def classifyImage(stream):
     try:
@@ -18,10 +18,12 @@ def classifyImage(stream):
         stream.seek(0)
         connection.write(stream.read())
 
-        connection.write(struct.pack('<L', 0))
+        #connection.write(struct.pack('<L', 0))
         classification = client_socket.recv(1000)
+        print("Here!")
     finally:
-        connection.close()
-        client_socket.close()
+        print("Should close connection here")
+        # client_socket.close()
+        # connection.close()
 
     return classification

@@ -2,7 +2,7 @@
 # UT Create-a-Thon 2019
 # Purpose: Provides methods for controlling the servos and DC motors
 
-import time
+from time import sleep
 from gpiozero import *
 
 # ************** PIN INIT ***************
@@ -22,6 +22,23 @@ STBY = 27
 MOTORB = Motor(forward = BIN2, backward = BIN1)
 PWM_MOTOR_B = PWMOutputDevice(pin = PWMB, frequency = 2000)
 PWM_MOTOR_B.on()
+
+# Motor C
+PWMC = 5 
+CIN1 = 6
+CIN2 = 13
+MOTORC = Motor(forward = CIN1, backward = CIN2)
+PWM_MOTOR_C = PWMOutputDevice(pin = PWMC, frequency = 2000)
+PWM_MOTOR_C.on()
+
+# Motor D
+DIN1 = 20
+DIN2 = 21
+PWMD = 2
+MOTORD = Motor(forward = DIN2, backward = DIN1)
+PWM_MOTOR_D = PWMOutputDevice(pin = PWMD, frequency = 2000)
+PWM_MOTOR_D.on()
+
 
 # Servo General
 LOW_DUTY_CYCLE = 4
@@ -46,20 +63,25 @@ SERVOR2 = PWMOutputDevice(pin = SERVOR2_PIN, initial_value = 0.21, frequency = 1
 
 
 # Move trash recepticle to the left
-def moveRecepticleLeft():
+def moveReceptacleLeft():
     MOTORA.forward()
     MOTORB.forward()
+    MOTORC.backward()
+    MOTORD.backward()
 
 # Move trash recepticle to the right
-def moveRecepticleRight():
+def moveReceptacleRight():
     MOTORA.backward()
     MOTORB.backward()
+    MOTORC.forward()
+    MOTORD.forward()
 
 # Stop the trash recepticle
-def stopRecepticle():
+def stopReceptacle():
     MOTORA.stop()
     MOTORB.stop()
-
+    MOTORC.stop()
+    MOTORD.stop()
 
 
 # Open the recepticle flaps
@@ -75,3 +97,10 @@ def closeFlaps():
     SERVOL2.value = 0.08
     SERVOR1.value = 0.21
     SERVOR2.value = 0.21
+
+
+# Open and close flap
+def flapMotion():
+    openFlaps()
+    sleep(1)
+    closeFlaps()
